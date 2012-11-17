@@ -1,0 +1,23 @@
+{
+  "name": "battleship",
+  "version": "0.0.0",
+  "description": "Distributed battleship game",
+  "main": "index.js",
+  "dependencies": {
+    "cucumber": "~0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tanguygo/battleship.git"
+  },
+  "keywords": [
+    "battleship"
+  ],
+  "author": "Tanguy Goretti & David Jeusette",
+  "license": "BSD",
+  "readmeFilename": "README"
+}
